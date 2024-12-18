@@ -1,0 +1,115 @@
+body{
+    background-image: url("./image/Fondo\ 1.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mybouton{
+    background-color: rgba(0, 132, 255, 0.219);
+    border: none;
+    font-size: 18px;
+    color: bisque;
+    margin: 5 px;
+    transition: all 0.2s ease-in-out;
+    border-radius: 50px;
+    padding: 6px;
+    font-family: "Baskerville Old Face";
+}
+.mybouton:hover{
+    background-color: rgb(215, 250, 225);
+    color: rgb(255, 38, 0);
+    font-size: 15px;
+}
+.mybouton1{
+    background-color: rgba(255, 242, 127, 0.39);
+    border: none;
+    font-size: 20px;
+    margin: 7;
+    border-radius: 20px;
+    padding: 5px;
+    font-family: "Century725 Cn BT";
+}
+.mybouton1:hover{
+    background-color: rgb(222, 250, 215);
+    color: rgba(11, 19, 16, 0.781);
+    
+}
+.dropdown-menu{
+    background-color: rgb(238, 255, 0);
+}
+.Tituloprincical{
+    font-size: 120px;
+    color: rgba(220, 245, 220, 0.534);
+    font-family: "Algerian";
+}
+.Tituloprincical2{
+    font-family: "Algerian";
+    color: antiquewhite;
+    font-size: 50px;
+}
+.p{
+    font-size: 30px;
+    color: black;
+    border-radius: 10px;
+    border-color: aqua;
+    font-family: "timez new roman";
+}
+.p2{
+    font-size: 30px;
+    color: rgba(5, 12, 8, 0.61);
+    font-family: "Baskerville Old Face";
+}
+.col1{
+    width:  340px;
+    border-radius: 70px;
+
+}
+.Tituloprincical1{
+    font-size: 50px;
+    color: rgba(220, 245, 220, 0.534);
+    font-family: "Algerian";
+}
+.mytitlecard{
+    font-size: 50px;
+    color: rgb(0, 0, 0) ;
+    font-family: "Baskerville Old Face";
+}
+.conjunto3{
+    font-size: cover;
+}
+.myLabel{
+    font-size: 1.6rem;
+    color: aqua;
+    font-family: "Cursive";
+    background: rgba(123, 128, 202, 0.24);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7.8px);
+    -webkit-backdrop-filter: blur(7.8px);
+    border: 2px solid rgba(111, 223, 126, 0.51);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 1px;
+}
+.myInput{
+    font-size: 1rem;
+    color: #2733db;
+    font-family: "Arial";
+    background: rgba(123, 128, 202, 0.24);
+    border-radius: 6px;
+    backdrop-filter: blur(7.8px);
+    -webkit-backdrop-filter: blur(7.8px);
+    border: 1px solid rgba(111, 200, 223, 0.51);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+}
+.titulo7{
+    color: beige;
+    font-family: 'Courier New', Courier, monospace;
+}
+.myButton4{
+    border-radius: 20px;
+    color: rgb(4, 3, 14);
+    border: 6px;
+    font-family: Arial, Helvetica, sans-serif c;
+}
