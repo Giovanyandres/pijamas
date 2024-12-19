@@ -7,7 +7,7 @@ body{
     background-color: rgba(0, 132, 255, 0.219);
     border: none;
     font-size: 18px;
-    color: bisque;
+    color: rgb(246, 255, 196);
     margin: 5 px;
     transition: all 0.2s ease-in-out;
     border-radius: 50px;
@@ -38,7 +38,7 @@ body{
 }
 .Tituloprincical{
     font-size: 120px;
-    color: rgba(220, 245, 220, 0.534);
+    color: rgba(27, 133, 27, 0.747);
     font-family: "Algerian";
 }
 .Tituloprincical2{
@@ -55,8 +55,9 @@ body{
 }
 .p2{
     font-size: 30px;
-    color: rgba(5, 12, 8, 0.61);
+    color: rgb(12, 5, 5);
     font-family: "Baskerville Old Face";
+    border-radius: 10px;
 }
 .col1{
     width:  340px;
@@ -74,7 +75,8 @@ body{
     font-family: "Baskerville Old Face";
 }
 .conjunto3{
-    font-size: cover;
+    width:  240px;
+    border-radius: 10px;
 }
 .myLabel{
     font-size: 1.6rem;
