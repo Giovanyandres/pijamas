@@ -1,0 +1,20 @@
+{
+  "name": "pijamas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "porta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovanyandres/pijamas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovanyandres/pijamas/issues"
+  },
+  "homepage": "https://github.com/Giovanyandres/pijamas#readme"
+}
